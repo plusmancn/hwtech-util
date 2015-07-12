@@ -1,0 +1,22 @@
+{
+  "name": "hwtech-util",
+  "version": "1.0.0",
+  "description": "hwtech-util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusmancn/hwtech-util.git"
+  },
+  "keywords": [
+    "development-assiant"
+  ],
+  "author": "plusmancn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plusmancn/hwtech-util/issues"
+  },
+  "homepage": "https://github.com/plusmancn/hwtech-util#readme"
+}
